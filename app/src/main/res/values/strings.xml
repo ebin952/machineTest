@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">machineTest</string>
+
+    <string-array name="category_name_text">
+        <item>Coffee</item>
+        <item>Pizza</item>
+        <item>Burger</item>
+        <item>Sandwich</item>
+        <item>Chinese</item>
+        <item>Pasta</item>
+        <item>Biryani</item>
+        <item>Cake</item>
+        <item>Chicken</item>
+    </string-array>
+    <string-array name="product_name_text">
+        <item>Mughlai Biryani</item>
+        <item>Dum Biryani</item>
+        <item>Mac N Cheese Pasta</item>
+        <item>Chicken Manchurian</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+        <item>Biryani</item>
+    </string-array>
+</resources>
